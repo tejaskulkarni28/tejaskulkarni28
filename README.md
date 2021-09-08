@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Tejas Kulkarni
-- 👀 I’m interested in < Coding > new stuff
-- 🌱 I’m currently a beginner in CS background.
+Hey , I'm Tejas!
 
-<!---
-tejaskulkarni28/tejaskulkarni28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me 🚀
+
+👨‍💻 I am passionate about Web Dev, Android Dev, DevOps & I enjoy learning new things.
+
