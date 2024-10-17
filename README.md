@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/17413802/README.md)[Uploading REA<div align = "center">
+<div align = "center">
 <div align = "center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi,++I'm+Tejas+Kulkarni)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
@@ -51,11 +51,6 @@
   <img src="https://streak-stats.demolab.com/?user=tejaskulkarni28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaskulkarni28&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)
-</div>
-
-<div align="center">
-  <h2> Profile Visit Count</h2>
-  <img src="https://profile-counter.glitch.me/tejaskulkarni28/count.svg?"  />
 </div>
 <br>
 
