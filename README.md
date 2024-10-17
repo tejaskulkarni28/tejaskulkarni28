@@ -1,65 +1,53 @@
-<div align = "center">
-<div align = "center">
+<div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi,++I'm+Tejas+Kulkarni)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
+  # Hi, I'm Tejas Kulkarni! 👋
   
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" >
-</div>
-<div align = "left">
-<h4>
-✨ I’m interested in Web Developement <br>
-✨ I’m currently learning MERN, Scala, DevOps<br>
-😄 I’m looking to collaborate on Web Application Projects <br>
-📫 Feel free to reach out or check out my repositories to see my work! <br>
-📫 You Can Contact me on <a href="mailto:tejaskulkarni2801@gmail.com" target="_blank">tejaskulkarni2801@gmail.com </a><br>
-📫 M: <a href="tel:+918766435698" target="_blank">8766435698</a> <br>
-</h4>
-</div>
-<br>
-
-<!-- Green Line SVG -->
-
-![Green Line gif](Green%20Line.gif)
-![Green Line gif](Green%20Line.gif)
-
-<div align=left>
-## 🌐 Social:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-kulkarni28)
-
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
+  
 </div>
 
-## 💻 Tech Stack:
+---
 
-![Express](https://img.shields.io/badge/Express-3670A0?style=flat-square&logo=express&logoColor=ffdd54)
+### 💼 About Me:
+- 🔭 I’m currently learning **MERN, Scala, and DevOps**.
+- 🌱 I'm passionate about **Web Development** and building modern, scalable applications.
+- 👯 I’m looking to collaborate on **Web Application Projects**.
+- 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB, Scala, and DevOps**.
+- 📫 Reach me at: 
+  - Email: [tejaskulkarni2801@gmail.com](mailto:tejaskulkarni2801@gmail.com) 
+  - Phone: [8766435698](tel:+918766435698)
+
+---
+
+### 🌐 Connect With Me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-kulkarni28)
+
+---
+
+### 💻 Tech Stack:
+
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=flat-square&logo=mongodb&logoColor=%2361DAFB)
-![Node JS](https://img.shields.io/badge/Node.js-%2320232a.svg?style=flat-square&logo=nodedotjs&logoColor=%235FA04E)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=%23CB3837)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Php](https://img.shields.io/badge/Php-%2300599C.svg?style=flat-square&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
-<br>
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tejaskulkarni28&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak">
+</div>
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tejaskulkarni28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaskulkarni28&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)
-</div>
-<br>
-
-<div align="center">
-  <img align="center" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="150" alt="Programmer GIF">
 </div>
 
-<div align="center">
-  <img src = "Bottom_Down_Wave.svg" alt = "Bottom svg credit goes to user: BEPb">
-</div>
-</div>
-DME.md…]()
+---
